@@ -1,3 +1,7 @@
+
+EDIT: FUCK CHRIS RODGERSUK THIS REPO IS NOT IS AND IS NOT OWNED BY HIM IN ANYWAY AT ALL!!
+
+
 # Blue Sky FiveM Framework
 Blue Sky Framework is a custom built framework for [BlueSky-Development](https://github.com/BlueSky-Development)'s roleplay server, a now cancelled project.
 
